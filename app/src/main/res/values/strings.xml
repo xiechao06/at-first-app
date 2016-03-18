@@ -2,4 +2,5 @@
     <string name="app_name">ANDROID TRAINING - FIRST APP</string>
     <string name="edit_text">Enter a message</string>
     <string name="button_text">SEND</string>
+    <string name="title_activity_main2">Main2Activity</string>
 </resources>
